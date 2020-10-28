@@ -4,4 +4,4 @@ This repository contains a notebook with the implimentation of the segmentation 
 
 Here is an example of the algorithm being run on an image:
 
-![](/comparision.jpg)
+![](https://github.com/DrJupiter/03-Lab-Image-Segmentation/blob/main/comparison.jpg)
